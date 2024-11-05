@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debzoti
 - 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning Redux toolkit
+- 🌱 I’m currently learning js concepts
 - 💞️ I’m looking to collaborate on open source projects
 - 📫  reach me on twitter- https://twitter.com/debzoti?t=Y3uupnlTkcY0hMy2XGt99g&s=01
 

@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Debzoti
-- 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning js concepts
+- 👀 I’m interested in BACKEND devlopement
+- 🌱 I’m currently learning golang, doi'n hackathons
 - 💞️ I’m looking to collaborate on open source projects
-- 📫  reach me on twitter- https://twitter.com/debzoti?t=Y3uupnlTkcY0hMy2XGt99g&s=01
+- x acc: https://x.com/debzoti
+- linkedIn: https://www.linkedin.com/in/vicky990/
 
 <!---
 Debzoti/Debzoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

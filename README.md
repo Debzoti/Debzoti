@@ -31,16 +31,7 @@
 
 ---
 
-## 📂 Projects
-
-1. **[Quiz Web App](https://github.com/username/quiz-app)**  
-   A full‑stack quiz application built with React & Node.js.  
-2. **[Men’s Health Tracker](https://github.com/username/health-app)**  
-   Daily challenges & habit tracker using MERN and TypeScript.  
-3. **[Scraper Tool](https://github.com/username/scraper)**  
-   A web‑scraping utility for extracting data from websites.
-
-_For more, see my [GitHub Repositories](https://github.com/username?tab=repositories)._
+_For more, see my [GitHub Repositories](https://github.com/Debzoti?tab=repositories)._
 
 ---
 

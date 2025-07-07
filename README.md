@@ -39,12 +39,18 @@ _For more, see my [GitHub Repositories](https://github.com/Debzoti?tab=repositor
 
 ![Debjyoti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Debzoti&show_icons=true&theme=radical)
 
+<!-- Current Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debzoti&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debzoti&layout=compact&theme=radical)
+
 ---
 
 ## 📫 Connect with me
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/debzoti)
+- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/vicky990/)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---

@@ -3,21 +3,21 @@
   Replace all [PLACEHOLDER] text and URLs with your own information!
 -->
 
-# 👋 Hi there, I’m [Your Name]
+# 👋 Hi there, I’m Debjyoti
 
-> A brief one‑liner about who you are or what you do.
+> Im a Backend Engineer- building scalable backends for robust softwares.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Project Name](https://github.com/username/project)**  
-- 🌱 I’m learning **TypeScript**, **Node.js**, and **React**  
+- 🔭 I’m currently working on **[Kisan-mandi](https://github.com/Debzoti/Kisan-Mandi)**  
+- 🌱 I’m learning **TypeScript**, **websockets**, and **System design**  
 - 👯 I’m looking to collaborate on open‑source projects  
-- 💬 Ask me about **Java**, **DSA**, or **web scraping**  
+- 💬 Ask me about **Backend**, **DSA**, or **node-js**  
 - 📫 How to reach me:
-  - 📧 [your.email@example.com](mailto:your.email@example.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+  - 📧 [debjyotisarkar929@gmail.com](mailto:debjyotisarkar929@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/vicky990/)
 - ⚡ Fun fact: I love solving **coding puzzles** and drinking ☕
 
 ---
@@ -46,7 +46,7 @@ _For more, see my [GitHub Repositories](https://github.com/username?tab=reposito
 
 ## 📈 GitHub Stats
 
-![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Debjyoti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Debzoti&show_icons=true&theme=radical)
 
 ---
 

@@ -49,9 +49,9 @@ _For more, see my [GitHub Repositories](https://github.com/Debzoti?tab=repositor
 
 ## 📫 Connect with me
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/debzoti)
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/vicky990/)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🐦 Twitter: [debzoti](https://twitter.com/debzoti)
+- 💼 LinkedIn: [debjyoti sarkar](https://www.linkedin.com/in/vicky990/)
+- 🌐 Portfolio: [debzoti.com](https://your-portfolio.com)
 
 ---
 
